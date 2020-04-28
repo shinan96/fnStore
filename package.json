@@ -1,0 +1,23 @@
+{
+  "name": "snstore",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinan96/fnStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinan96/fnStore/issues"
+  },
+  "homepage": "https://github.com/shinan96/fnStore#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
